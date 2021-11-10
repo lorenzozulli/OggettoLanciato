@@ -3,7 +3,7 @@
  */
 package OggettoLanciato;
 /**
- * @author Lorenzo Zulli
+ * @author Lorenzo Zulli prova prova 123
  *
  */
 import java.util.Scanner;
