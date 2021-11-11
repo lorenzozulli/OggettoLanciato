@@ -16,5 +16,6 @@ public class dado extends OggettoLanciato {
 		//generiamo il numero casuale in base al range dato
 		int value = (int)(Math.random() * range) + 1;
 		setLancio(value);
+		//ho cambiato qui ***********
 	}
 }
