@@ -1,5 +1,2 @@
 # OggettoLanciato
-wewe
-
-## Ciao
-Prova prova!
+Simulazione di lanci dadi e monete
